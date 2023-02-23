@@ -1,1 +1,0 @@
-{% load blog_extras %}
